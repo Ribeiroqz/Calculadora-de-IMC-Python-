@@ -27,7 +27,7 @@ cd Calculadora-de-IMC-Python-
 3. Execute o arquivo:
 
 ```
-python main.py
+python calculadora_imc_py
 ```
 
 ## 📚 Conceitos praticados
